@@ -1,0 +1,35 @@
+{
+  "name": "Emergency Health Trainer",
+  "short_name": "Emergency Trainer",
+  "description": "Medical emergency training with room selection and sound simulations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1a2d",
+  "theme_color": "#0c1a2d",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFhSURBVHgB7ZbRbcMwDEQprzvvM0NP0R0yQ2fwCj1D6Qny3KX6gJggAerH0geEH5IACR5FZgzDcA+r3/CG10o4e7wm4WwrhA0hK4F/CAjYQAIBLhFgEJgWgEEgFQJ4FICg7tH/OwE9+kMq+3/qS8D+h7YAYzNtJ0l0BNZ9BOs4ygXIfYc7AtERQAKhTmhDQF6jEAQ2QRXmCJRAoAXK/V6DgF8uGAhUQ6AaArURCIlAawRCItAagZAItEagOgKZEPCJKTIh4BNTZELAJ6bIhIBPTBEcAR+Bbgh0Q6AqAhkQKIVATQRKINAdgUwI+MQUmRDwiSkyIeATU2RCwCemCI7APgQOTcCHQzUESuDtIIGm+LYJtBaKGwTcHKojsA4C3PQhYIpoCJQyYScEN126iyTG1xXMU6zSVSQx/gN1At8tntlMdfv/vgAAAABJRU5ErkJggg==",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGgSURBVHgB7ZfbTcMwFIaTJt1m72uGztAZOkNn8Ao9QxNEe0bZU9dTAkKBAKk4kg8IPywDCm/JB3wcB3aw+plPf2Q4a8PZ4Wf2k8/ZJmTd8BvsYQwEAoFAYP5e0YGeLcC2V6UAb0V7FFiAK9CJBH5sR5NC+wKvSPfPC0ii/w1yKUG5/9EQ8M0FE4HmCLAiYKLPRKCaQGAh1gjwImCgb0WgJYFJBOy0JiFgR4AXARN9KwItCSgIyOj7QsCJQEoEmv/5BwK9QMSdgIm+EwGfXKAhIPd7DQJ2uWAgUA2BVgj0jEA0BGQCrRHwhYA1gZgIyARaImCOgJ4rUQgoE4iJgDIB0wSoQGBUArYIxEYgGQIyAR8IdAdgVgJgILAMgZj8u2sE7JwMAwEvAiY2C3yXZ9ezG7+7+8dwU7Q7uYwTXzYrT/pqAhqG/HO7ezlNcXT0/8+P4ft4X86PDpO2CJ4Kdgv6c7keHu8epuM3fB2P9JXL5pIXi3aBAj0m0vWB6L9sb7/L5WN/9B+3F99l82tz/rBZLu1RYAH1iySJ6N8S/Ur/Cf1Rj5TfDwAAAABJRU5ErkJggg==",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "medical", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Start Training",
+      "short_name": "Training",
+      "description": "Start emergency training session",
+      "url": "/",
+      "icons": []
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
